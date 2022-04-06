@@ -8,4 +8,4 @@ Corresponding to an attempt made in regards to the development of a "network of 
 My field of interest "chronic inflammation", which is attributed to malignancies, is explored in extended aspects; namely, identification of available "omics" targets, drug repurposing, and proposing new therapeutic/prophylactic components. 
 As I have illustrated the hub of modulated genes whilst the progression of cervical intraepithelial neoplasia (CIN) I came by the idea of working on spliced variants of transcriptomes that may contribute to the progression of CIN.
 
-methodology available at: [https://icedrive.net/s/Wh8](url).
+methodology available at: [https://icedrive.net/s/Wh8Rihwi6Vw6vZ3itiy68Cjjk3B9](url).
