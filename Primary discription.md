@@ -1,5 +1,4 @@
-# Prop_in_brief
-this is the most important proposition/project during which I may be assissted by TUMS
+# Prop_Diff_SPL
 **Pharmacometrics**
 
 "Pharmacometrics is an emerging science defined as the science that quantifies drug, disease and trial information to aid efficient drug development and/or regulatory decisions" as stated by [fda.gov](url).
@@ -9,3 +8,6 @@ My field of interest "chronic inflammation", which is attributed to malignancies
 As I have illustrated the hub of modulated genes whilst the progression of cervical intraepithelial neoplasia (CIN) I came by the idea of working on spliced variants of transcriptomes that may contribute to the progression of CIN.
 
 methodology illustrated in "method paper".
+
+please insert editions with relative commite to "Code tab>file>upload file".
+please ask questions using Issue tab.
